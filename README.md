@@ -1,6 +1,5 @@
 <p align="center"><a href="https://github.com/mobasaradev"><img width="100%" alt="Hello, I'm Mobasara. I'm a Software developer!" src="assets/mobasaradev.png" /></a></p>
-
- </br >                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                 
 **<h3>About me</h3>**
 
 - 💼 software developer
@@ -28,8 +27,6 @@
   <img align="center"  width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mobasaradev&repo=Provider-State-Management&theme=buefy" />
 </a>
 
-<br />
-<br />
 
 <a href="https://linkedin.com/in/mobasaradev">
   <img align="right" alt="mobasaradev" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
