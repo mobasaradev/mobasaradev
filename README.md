@@ -28,12 +28,12 @@
 </a>
 
 
-<br/>
+<br/><br/>
 <a href="https://linkedin.com/in/mobasaradev">
-  <img align="right" alt="mobasaradev" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+  <img align="right" alt="mobasaradev" width="15px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://fb.com/mkmobasara">
-  <img align="right" alt="mobasaradev" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+  <img align="right" alt="mobasaradev" width="15px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
 </a>
   
 
