@@ -1,4 +1,12 @@
-### Hi there 👋
+<p align="center"><a href="https://github.com/mobasaradev"><img width="80%" alt="Hello, I'm Mobasara. I'm a Software developer!" src="./assets/" /></a></p>
+<h3 align="center">Hi 👋, I'm @mobasaradev</h3>
+<h4 align="center">Flutter Developer</h4>
+<div align="center">
+  <a href="https://github.com/mobasaradev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mobasaradev&theme=merko&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobasaradev"&theme=merko&show_icons=true"/>
+  
+</div>
 
 <!--
 **mobasaradev/mobasaradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
