@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/mobasaradev"><img width="100%" alt="Hello, I'm Mobasara. I'm a Software developer!" src="assets/movasaradev.png" /></a></p>
+<p align="center"><a href="https://github.com/mobasaradev"><img width="100%" alt="Hello, I'm Mobasara. I'm a Software developer!" src="assets/mobasaradev.png" /></a></p>
 <div align="center">
   <a href="https://github.com/mobasaradev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mobasaradev&theme=merko&show_icons=true"/>
