@@ -25,13 +25,12 @@
 
 **💻 My Skills:**
 
-[![Dart](https://img.shields.io/badge/%E2%80%8D-Dart-%230175C2?logo=dart)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/%E2%80%8D-Flutter-%2302569B?logo=flutter)](https://flutter.dev/)
-[![HTML5](https://img.shields.io/badge/%E2%80%8D-HTML5-E34F26?logo=html5)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/%E2%80%8D-CSS3-1572B6?logo=css3)](https://www.w3.org/Style/CSS/)
-[![Firebase](https://img.shields.io/badge/%E2%80%8D-Firebase-%23039BE5?logo=firebase)](https://firebase.google.com/)
-[![GitHub](https://img.shields.io/badge/%E2%80%8D-GitHub-white?logo=github)](https://github.com/)
-
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img alt="dart.dev" src="https://img.shields.io/badge/Dart-2cb7f6?style=for-the-badge&logo=Dart&logoColor=white" /> </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img alt="flutter.dev" src="https://img.shields.io/badge/Flutter-60c9f8?style=for-the-badge&logo=Flutter&logoColor=white" /> </a>
+<a href="html" target="_blank" rel="noreferrer"> <img alt="htlm" src="https://img.shields.io/badge/HTML-e96228?style=for-the-badge&logo=HTML5&logoColor=white" /> </a>
+<a href="css" target="_blank" rel="noreferrer"> <img alt="css" src="https://img.shields.io/badge/CSS-2862e9?style=for-the-badge&logo=CSS3&logoColor=white" /> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img alt="https://firebase.google.com/" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" /> </a>
+<a href="https://github.com/mobasaradev/" target="_blank" rel="noreferrer"> <img alt="Dev Mobasara's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 
 <a href="https://github.com/mobasaradev"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=mobasaradev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mobasaradev's github profile" /></a> | <a href="https://github.com/mobasaradev"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobasaradev&layout=compact&theme=buefy&hide_border=true" /></a> |
