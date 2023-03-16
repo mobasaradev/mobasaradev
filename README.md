@@ -20,7 +20,7 @@
 **📈 Update News:**
 
 👨‍💻 working with <b>Flutter Apps Development.</b> <br>
-📚 Learning <b>API</b> </small>
+📚 Learning <b>BloC</b> </small>
 <br> <br>
 
 **💻 My Skills:**
