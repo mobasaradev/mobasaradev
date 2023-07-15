@@ -1,8 +1,6 @@
-<p align="center"><a href="https://github.com/mobasaradev"><img width="100%" alt="Hello, I'm Mobasara k. I'm a Flutter developer!" src="assets/mobasaradev.png" /></a></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=22&pause=1000&color=5E17EB&vCenter=true&center=true&multiline=true&width=1300&height=100&lines=Hello%2C+I'm+Dev+Mobasara+(Sara).;A+software+developer%2C+programmer%2C+app+developer%2C++web+designer+and+web+developer.;I+love+to+do+programming%2C+and+building+fun+experiments+with+my+knowledge.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&size=24&pause=1000&color=5E17EB&center=true&vCenter=true&multiline=true&width=1300&height=150&lines=Hey+There!+I'm+Mobasara+K.+Flutter+Developer;Driven+by+my+unwavering+passion+for+technology%2C+I+am+committed+to+building+a+successful+career+in+the+professional+field.+;Through+dedication%2C+hard+work%2C+and+unwavering+integrity%2C+I+aim+to+achieve+excellence+and+contribute+to+the+advancement+of+the+industry.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&size=28&pause=1000&color=5E17EB&center=true&vCenter=true&multiline=true&width=1300&height=150&lines=Driven+by+my+unwavering+passion+for+technology%2C++I+am+committed+to+building;a+successful+career+in+the+professional+field.+Through+dedication%2C+hard+work%2C+and+unwavering+integrity%2C+;I+aim+to+achieve+excellence+and+contribute+to+the+advancement+of+the+industry.)](https://git.io/typing-svg)
 
 <h5 align="center">
 
