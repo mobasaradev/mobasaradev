@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&weight=700&size=52&pause=1000&color=EB0000&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=150&lines=Hello+There!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&size=28&pause=1000&color=5E17EB&center=true&vCenter=true&multiline=true&width=1300&height=150&lines=Driven+by+my+unwavering+passion+for+technology%2C++I+am+committed+to+building;a+successful+career+in+the+professional+field.+Through+dedication%2C+hard+work%2C+and+unwavering+integrity%2C+;I+aim+to+achieve+excellence+and+contribute+to+the+advancement+of+the+industry.)](https://git.io/typing-svg)
 
