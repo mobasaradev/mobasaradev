@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/mobasaradev"><img width="100%" alt="Hello, I'm Mobasara. I'm a Software developer!" src="assets/mobasaradev.png" /></a></p>
+<p align="center"><a href="https://github.com/mobasaradev"><img width="100%" alt="Hello, I'm Mobasara k. I'm a Flutter developer!" src="assets/mobasaradev.png" /></a></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=22&pause=1000&color=5E17EB&vCenter=true&center=true&multiline=true&width=1300&height=100&lines=Hello%2C+I'm+Dev+Mobasara+(Sara).;A+software+developer%2C+programmer%2C+app+developer%2C++web+designer+and+web+developer.;I+love+to+do+programming%2C+and+building+fun+experiments+with+my+knowledge.)](https://git.io/typing-svg)
 
@@ -19,8 +19,8 @@
 
 **📈 Update News:**
 
-👨‍💻 working with <b>Flutter Apps Development.</b> <br>
-📚 Learning <b>BloC</b> </small>
+👨‍💻 working with <b>Software and Mobile App Development.</b> <br>
+📚 Learning <b>BloC, API integration and Problem-solving</b> </small>
 <br> <br>
 
 **💻 My Skills:**
